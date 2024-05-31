@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_lstm_cell.c:57:15:lstm_cell_free	0	static
+../Nnom/src/layers/nnom_lstm_cell.c:87:15:lstm_cell_q7_q15_build	12	static
+../Nnom/src/layers/nnom_lstm_cell.c:121:15:lstm_cell_q7_q15_run	88	static
+../Nnom/src/layers/nnom_lstm_cell.c:30:18:lstm_cell_s	8	static

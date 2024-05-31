@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_sumpool.c:60:15:sumpool_build	8	static
+../Nnom/src/layers/nnom_sumpool.c:73:15:sumpool_run	64	static
+../Nnom/src/layers/nnom_sumpool.c:46:15:SumPool	32	static
+../Nnom/src/layers/nnom_sumpool.c:22:15:sumpool_s	64	static

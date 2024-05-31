@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_simple_cell.c:57:15:simple_cell_free	0	static
+../Nnom/src/layers/nnom_simple_cell.c:63:15:simple_cell_build	12	static
+../Nnom/src/layers/nnom_simple_cell.c:115:15:simple_cell_run	40	static
+../Nnom/src/layers/nnom_simple_cell.c:30:18:simple_cell_s	8	static

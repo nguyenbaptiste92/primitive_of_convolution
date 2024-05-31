@@ -1,0 +1,5 @@
+../Nnom/src/layers/nnom_dense.c:138:15:dense_build	32	static
+../Nnom/src/layers/nnom_dense.c:178:15:dense_run	56	static
+../Nnom/src/layers/nnom_dense.c:165:15:dense_free	8	static
+../Nnom/src/layers/nnom_dense.c:27:15:dense_s	16	static
+../Nnom/src/layers/nnom_dense.c:72:15:Dense	40	static

@@ -1,0 +1,19 @@
+Cuda 11.0
+
+Python 3.6.8:
+    - Tensorflow 2.4.3
+    - Numpy 1.19.5
+    - Pandas 1.1.3
+    - Matplotlib 3.1.3
+
+
+Middleware :
+    - NNom 0.4.3
+    - ARM CMSIS 5.8.0 / CMSIS-NN 3.0.0
+
+Software :
+    - STM32CubeIDE 1.10.0 :
+        - arm-none-eabi-gcc 10.3
+    - STM32CubeMX 6.6.0
+    - STM32CubeMonitor-Power
+

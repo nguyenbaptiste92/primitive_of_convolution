@@ -1,0 +1,5 @@
+../Nnom/src/layers/nnom_conv2d_trans.c:60:15:conv2d_trans_build	24	static
+../Nnom/src/layers/nnom_conv2d_trans.c:108:15:conv2d_trans_run	96	static
+../Nnom/src/layers/nnom_conv2d_trans.c:23:15:conv2d_trans_s	8	static
+../Nnom/src/layers/nnom_conv2d_trans.c:36:15:Conv2DTrans	48	static
+../Nnom/src/layers/nnom_conv2d_trans.c:52:10:conv_trans_output_length	0	static

@@ -1,0 +1,5 @@
+../Nnom/src/layers/nnom_batchnormalization.c:130:15:batchnormalization_build	24	static
+../Nnom/src/layers/nnom_batchnormalization.c:178:15:batchnormalization_run	56	static
+../Nnom/src/layers/nnom_batchnormalization.c:164:15:batchnormalization_free	8	static
+../Nnom/src/layers/nnom_batchnormalization.c:11:15:batchnormalization_s	16	static
+../Nnom/src/layers/nnom_batchnormalization.c:64:15:BatchNormalization	32	static

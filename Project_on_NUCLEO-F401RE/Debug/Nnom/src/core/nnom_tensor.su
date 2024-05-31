@@ -1,0 +1,12 @@
+../Nnom/src/core/nnom_tensor.c:22:8:tensor_size	8	static
+../Nnom/src/core/nnom_tensor.c:33:8:tensor_size_byte	8	static
+../Nnom/src/core/nnom_tensor.c:39:8:tensor_get_num_channel	0	static
+../Nnom/src/core/nnom_tensor.c:53:16:new_tensor	24	static
+../Nnom/src/core/nnom_tensor.c:85:6:delete_tensor	0	static
+../Nnom/src/core/nnom_tensor.c:93:16:tensor_set_attr_v	16	static
+../Nnom/src/core/nnom_tensor.c:111:16:tensor_set_attr	24	static
+../Nnom/src/core/nnom_tensor.c:137:16:tensor_cpy_attr	24	static
+../Nnom/src/core/nnom_tensor.c:162:6:tensor_hwc2chw_q7	20	static
+../Nnom/src/core/nnom_tensor.c:183:6:tensor_chw2hwc_q7	24	static
+../Nnom/src/core/nnom_tensor.c:210:6:hwc2chw_q7	40	static
+../Nnom/src/core/nnom_tensor.c:228:6:chw2hwc_q7	56	static

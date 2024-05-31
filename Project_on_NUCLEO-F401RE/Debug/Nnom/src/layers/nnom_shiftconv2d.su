@@ -1,0 +1,5 @@
+../Nnom/src/layers/nnom_shiftconv2d.c:165:15:shiftconv2d_build	16	static
+../Nnom/src/layers/nnom_shiftconv2d.c:212:15:shiftconv2d_run	72	static
+../Nnom/src/layers/nnom_shiftconv2d.c:198:15:shiftconv2d_free	8	static
+../Nnom/src/layers/nnom_shiftconv2d.c:17:15:shiftconv2d_s	32	static
+../Nnom/src/layers/nnom_shiftconv2d.c:85:15:ShiftConv2D	56	static

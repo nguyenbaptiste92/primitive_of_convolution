@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_avgpool.c:65:15:avgpool_build	8	static
+../Nnom/src/layers/nnom_avgpool.c:82:15:avgpool_run	88	static
+../Nnom/src/layers/nnom_avgpool.c:52:15:AvgPool	32	static
+../Nnom/src/layers/nnom_avgpool.c:27:15:avgpool_s	64	static

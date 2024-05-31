@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_rnn.c:72:15:rnn_free	8	static
+../Nnom/src/layers/nnom_rnn.c:85:15:rnn_build	16	static
+../Nnom/src/layers/nnom_rnn.c:135:15:rnn_run	56	static
+../Nnom/src/layers/nnom_rnn.c:27:15:rnn_s	16	static

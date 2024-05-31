@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_flatten.c:77:15:flatten_run	0	static
+../Nnom/src/layers/nnom_flatten.c:63:15:flatten_build	40	static
+../Nnom/src/layers/nnom_flatten.c:30:15:Flatten	8	static
+../Nnom/src/layers/nnom_flatten.c:22:15:flatten_s	8	static

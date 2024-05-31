@@ -1,0 +1,29 @@
+import os
+
+ROOT=os.path.abspath('..'+os.sep+'..')
+
+env = Environment()
+env.Replace(
+    ARCOMSTR = 'AR $SOURCE',
+    ASCOMSTR = 'AS $SOURCE',
+    ASPPCOMSTR = 'AS $SOURCE',
+    CCCOMSTR = 'CC $SOURCE',
+    CXXCOMSTR = 'CXX $SOURCE',
+    LINKCOMSTR = 'LINK $TARGET'
+)
+
+objs = []
+
+
+objs += Glob('test_nnom.c')
+
+env.Append(CPPDEFINES=['__ARM_ARCH_8M_BASE__'])
+env.Append(CCFLAGS=['-g','-O0','-std=gnu99']) 
+
+objs +=Glob('%s/cc/nnom_micro/src/core/*.c'%(ROOT))
+objs +=Glob('%s/cc/nnom_micro/src/layers/*.c'%(ROOT))
+objs +=Glob('%s/cc/nnom_micro/src/backends/*.c'%(ROOT))
+env.Append(CPPPATH=['%s/cc/nnom_micro/inc'%(ROOT),'%s/cc/nnom_micro/port'%(ROOT)])
+#env.Append(CPPDEFINES=['USE_NNOM_OUTPUT_SAVE'])
+
+env.Program('test_nnom',objs)

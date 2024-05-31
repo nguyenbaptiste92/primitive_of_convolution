@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_baselayer.c:64:15:default_build	24	static
+../Nnom/src/layers/nnom_baselayer.c:83:15:default_run	16	static
+../Nnom/src/layers/nnom_baselayer.c:32:15:BaseLayer	8	static
+../Nnom/src/layers/nnom_baselayer.c:24:15:baselayer_s	8	static

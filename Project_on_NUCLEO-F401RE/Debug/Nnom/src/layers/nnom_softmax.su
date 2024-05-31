@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_softmax.c:64:15:softmax_build	24	static
+../Nnom/src/layers/nnom_softmax.c:76:15:softmax_run	16	static
+../Nnom/src/layers/nnom_softmax.c:35:15:Softmax	8	static
+../Nnom/src/layers/nnom_softmax.c:27:15:softmax_s	8	static

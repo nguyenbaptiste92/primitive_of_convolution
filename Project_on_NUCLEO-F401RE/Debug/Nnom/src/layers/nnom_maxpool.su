@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_maxpool.c:101:15:maxpool_build	24	static
+../Nnom/src/layers/nnom_maxpool.c:134:15:maxpool_run	64	static
+../Nnom/src/layers/nnom_maxpool.c:50:15:MaxPool	40	static
+../Nnom/src/layers/nnom_maxpool.c:27:15:maxpool_s	64	static

@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_upsample.c:64:15:upsample_build	24	static
+../Nnom/src/layers/nnom_upsample.c:88:15:upsample_run	48	static
+../Nnom/src/layers/nnom_upsample.c:31:15:UpSample	24	static
+../Nnom/src/layers/nnom_upsample.c:22:15:upsample_s	24	static

@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_cropping.c:45:15:cropping_build	24	static
+../Nnom/src/layers/nnom_cropping.c:69:15:cropping_run	56	static
+../Nnom/src/layers/nnom_cropping.c:31:15:Cropping	16	static
+../Nnom/src/layers/nnom_cropping.c:22:16:cropping_s	8	static

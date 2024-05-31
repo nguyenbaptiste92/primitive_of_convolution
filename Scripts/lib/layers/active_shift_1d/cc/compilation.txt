@@ -1,0 +1,3 @@
+
+nvcc -std=c++14 -c -o active_shift_1d.cu.o active_shift_1d.cu.cc ${TF_CFLAGS[@]} -D GOOGLE_CUDA=1 -x cu -Xcompiler -fPIC --expt-relaxed-constexpr
+g++ -std=c++14 -shared -o active_shift_1d.so active_shift_1d.cc active_shift_1d.cu.o ${TF_CFLAGS[@]} -fPIC -lcudart ${TF_LFLAGS[@]} -L /usr/local/cuda-11.8/lib64/ -D GOOGLE_CUDA=1

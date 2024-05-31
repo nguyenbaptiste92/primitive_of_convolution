@@ -1,0 +1,6 @@
+../Nnom/src/layers/nnom_groupconv2d.c:185:15:groupconv2d_build	24	static
+../Nnom/src/layers/nnom_groupconv2d.c:239:15:groupconv2d_run	104	static
+../Nnom/src/layers/nnom_groupconv2d.c:226:15:groupconv2d_free	8	static
+../Nnom/src/layers/nnom_groupconv2d.c:16:15:groupconv2d_s	40	static
+../Nnom/src/layers/nnom_groupconv2d.c:96:15:GroupConv2D	48	static
+../Nnom/src/layers/nnom_groupconv2d.c:172:10:groupconv_output_length	0	static

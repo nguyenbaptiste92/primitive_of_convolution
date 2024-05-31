@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_gru_cell.c:53:15:gru_cell_free	0	static
+../Nnom/src/layers/nnom_gru_cell.c:59:15:gru_cell_build	12	static
+../Nnom/src/layers/nnom_gru_cell.c:119:15:gru_cell_run	96	static
+../Nnom/src/layers/nnom_gru_cell.c:27:18:gru_cell_s	8	static

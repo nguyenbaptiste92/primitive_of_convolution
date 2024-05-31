@@ -1,0 +1,4 @@
+../Nnom/src/layers/nnom_dw_conv2d.c:53:15:dw_conv2d_build	32	static
+../Nnom/src/layers/nnom_dw_conv2d.c:95:15:dw_conv2d_run	104	static
+../Nnom/src/layers/nnom_dw_conv2d.c:27:15:dw_conv2d_s	8	static
+../Nnom/src/layers/nnom_dw_conv2d.c:40:15:DW_Conv2D	48	static

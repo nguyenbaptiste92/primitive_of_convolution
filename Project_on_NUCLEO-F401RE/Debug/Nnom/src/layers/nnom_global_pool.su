@@ -1,0 +1,7 @@
+../Nnom/src/layers/nnom_global_pool.c:106:15:global_pool_build	40	static
+../Nnom/src/layers/nnom_global_pool.c:56:15:GlobalMaxPool	40	static
+../Nnom/src/layers/nnom_global_pool.c:23:16:global_maxpool_s	8	static
+../Nnom/src/layers/nnom_global_pool.c:72:15:GlobalAvgPool	40	static
+../Nnom/src/layers/nnom_global_pool.c:33:16:global_avgpool_s	8	static
+../Nnom/src/layers/nnom_global_pool.c:89:15:GlobalSumPool	40	static
+../Nnom/src/layers/nnom_global_pool.c:44:16:global_sumpool_s	8	static

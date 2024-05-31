@@ -1,0 +1,10 @@
+../Nnom/src/core/nnom_utils.c:64:17:prediction_create	48	static
+../Nnom/src/core/nnom_utils.c:88:15:prediction_run	24	static
+../Nnom/src/core/nnom_utils.c:166:6:prediction_end	0	static
+../Nnom/src/core/nnom_utils.c:173:6:prediction_delete	8	static
+../Nnom/src/core/nnom_utils.c:178:6:prediction_matrix	32	static
+../Nnom/src/core/nnom_utils.c:209:6:prediction_top_k	32	static
+../Nnom/src/core/nnom_utils.c:227:6:prediction_summary	32	static
+../Nnom/src/core/nnom_utils.c:258:15:nnom_predict	32	static
+../Nnom/src/core/nnom_utils.c:338:6:model_stat	32	static
+../Nnom/src/core/nnom_utils.c:376:6:model_io_format	40	static
